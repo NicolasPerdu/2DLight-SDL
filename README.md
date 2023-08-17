@@ -1,5 +1,5 @@
 # 2D Light with SDL
-[![Video for 2D lights with SDL](https://glusoft.com/tutorials/sdl2/img/map.png)](https://youtu.be/jc0W-RGKNRc)
+[![Video for 2D lights with SDL](https://i.imgur.com/lgQZmzo.gif)](https://youtu.be/jc0W-RGKNRc)
 
 This project is an example of lights using SDL using visibility polygon. 
 
